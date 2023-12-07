@@ -28,16 +28,11 @@
     border: none;
   }
 
-  .single-input {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .single-input h1 {
+  /* .single-input h1 {
     margin-left: 145px;
-  }
+  } */
 
-  .single-input input {
+  .input-box input {
     width: 514px;
     height: 40px;
     border-radius: 8px;
